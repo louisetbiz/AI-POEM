@@ -1,0 +1,66 @@
+body {
+    background-color: #f9f7fe;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color: #885df1;
+}
+
+.container{
+    margin: 120px auto;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 36px;
+    color: #272044;
+}
+
+form{
+    padding: 15px 25px;
+    background-color: white;
+    border-radius: 7px;
+    border: 1px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, .05);
+    margin: 30px auto;
+    display:flex;
+}
+
+.instructions{
+    border: 1px solid rgb(39,33,66, .5);
+    padding: 10px;
+    border-radius: 20px;
+    width: 80%;
+    font-size: 16px;
+    
+}
+
+.button{
+    background-color: #885df1;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    margin-left: 10px;
+    color: white;
+    font-size: 16px;
+}
+
+.poem{
+  font-size: 16px;
+  background-color: white;
+  padding: 20px;
+  line-height: 2;
+  border-left:3px solid #885df1;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0, .05) ;  
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+footer{
+    color: #818182;
+    font-size: 10px;
+}
